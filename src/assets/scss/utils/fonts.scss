@@ -1,0 +1,50 @@
+// Fonts here
+// see more: https://github.com/vedees/webpack-template/blob/master/README.md#import-js-files
+@font-face {
+    font-family: Gilroy-Black;
+    src: url('/assets/fonts/Gilroy/Gilroy-Black.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Black.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url('/assets/fonts/Gilroy/Gilroy-Bold.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Bold.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-Heavy;
+    src: url('/assets/fonts/Gilroy/Gilroy-Heavy.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Heavy.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-Medium;
+    src: url('/assets/fonts/Gilroy/Gilroy-Medium.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Medium.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-Regular;
+    src: url('/assets/fonts/Gilroy/Gilroy-Regular.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Regular.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-Light;
+    src: url('/assets/fonts/Gilroy/Gilroy-Light.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-Light.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: Gilroy-SemiBold;
+    src: url('/assets/fonts/Gilroy/Gilroy-SemiBold.otf'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/Gilroy/Gilroy-SemiBold.otf')  format('truetype'), /* Safari, Android, iOS */
+         //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
